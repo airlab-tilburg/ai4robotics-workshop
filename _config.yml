@@ -1,0 +1,9 @@
+title: AI for Robotics Workshop 2024
+description: 1st Workshop on Recent Advancements of AI for Robotics, Tilburg, The Netherlands
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-cayman
+
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
