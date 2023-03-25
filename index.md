@@ -18,8 +18,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### Header 3
+
 <div id="header3" />
+### Header 3
 
 ```js
 // Javascript code with syntax highlighting.
