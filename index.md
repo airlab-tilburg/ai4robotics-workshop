@@ -6,7 +6,7 @@ layout: default
 ## Abstract
 
 http://www.robot-learning.ml/2022
-
+https://sites.google.com/view/deep-rl-workshop-neurips-2022/home?authuser=0
 
 
 <div id="invited_speakers" />
@@ -26,6 +26,7 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 | 9:00-9:15  | Opening Remarks  |
 | 9:15-10:00 | Invited Talk #1  |
 
+<br />
 
 
 <div id="organizers" />
