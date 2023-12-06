@@ -37,6 +37,12 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 
 
 
+<div id="registration" />
+## Registration
+
+
+
+
 <div id="important_dates" />
 ## Important Dates
 
