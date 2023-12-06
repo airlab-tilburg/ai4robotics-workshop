@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div id="abstract" />
-## Abstract
+## 
 
 http://www.robot-learning.ml/2022
 https://sites.google.com/view/deep-rl-workshop-neurips-2022/home?authuser=0
+
+Topics of interest include, but are not limited to:
+* aa
+
 
 
 <div id="invited_speakers" />
@@ -25,6 +29,21 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 
 | 9:00-9:15  | Opening Remarks  |
 | 9:15-10:00 | Invited Talk #1  |
+| 10:00-10:30 | Invited Talk #2  |
+| 10:30-11:30 | Coffee break with poster session |
+| 11:30-12:00 | Invited Talk #3  |
+| 12:00-12:30 | Invited Talk #4  |
+| 12:00-13:30 | Lunch with networking via thematic tables |
+| 13:30-14:00 | Invited Talk #5  |
+| 14:30-15:00 | Invited Talk #6  |
+| 15:00-15:45 | Coffee break with poster session  |
+| 15:45-16:15 | Invited Talk #7  |
+| 16:15-17:00 | Panel discussion  |
+| 17:00-17:10 | Closing remarks  |
+| 17:00-19:00 | Drinks and networking  |
+
+
+
 
 <br />
 
