@@ -5,21 +5,15 @@ layout: default
 <div id="abstract" />
 ## 
 
-http://www.robot-learning.ml/2022
-https://sites.google.com/view/deep-rl-workshop-neurips-2022/home?authuser=0
-
 Topics of interest include, but are not limited to:
-* aa
+* topic
 
 
 
 <div id="invited_speakers" />
 ## Invited Speakers
 
-*   speaker 1 with link / photo
-*   speaker 2 with link / photo
-*   speaker 3 with link / photo
-
+*   speakers
 
 
 <div id="schedule" />
@@ -51,13 +45,11 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 <div id="organizers" />
 ## Organizers
 
-*   organizer 1
-*   organizer 2
-
+*   organizers
 
 
 <div id="registration" />
-## Registration
+## Registration and Travel Grants
 
 
 
