@@ -15,7 +15,7 @@ Topics of interest include, but are not limited to:
 
 * Francesco Nori
 * Roberto Calandra
-* Servey Levine
+* [Servey Levine](https://people.eecs.berkeley.edu/~svlevine)
 * Serena Ivaldi
 * Jean-Baptiste Mouret
 * Jens Kober
@@ -38,7 +38,7 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 | 14:30-15:00 | Invited Talk #6  |
 | 15:00-15:45 | Coffee break with poster session  |
 | 15:45-16:30 | Panel discussion  |
-| 16:30-17:00 | Invited Talk #7: Sergey Levine  |
+| 16:30-17:00 | Invited Talk #7: [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine)  |
 | 17:00-17:10 | Closing remarks  |
 | 17:00-19:00 | Drinks and networking  |
 
