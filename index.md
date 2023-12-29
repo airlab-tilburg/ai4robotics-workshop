@@ -13,7 +13,13 @@ Topics of interest include, but are not limited to:
 <div id="invited_speakers" />
 ## Invited Speakers
 
-*   speakers
+* Francesco Nori
+* Roberto Calandra
+* Servey Levine
+* Serena Ivaldi
+* Jean-Baptiste Mouret
+* Jens Kober
+* Guido de Croon
 
 
 <div id="schedule" />
@@ -45,7 +51,8 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 <div id="organizers" />
 ## Organizers
 
-*   organizers
+* Giacomo Spigler
+* Murat Kirtay
 
 
 <div id="registration" />
