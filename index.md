@@ -13,13 +13,13 @@ Topics of interest include, but are not limited to:
 <div id="invited_speakers" />
 ## Invited Speakers
 
-* Francesco Nori
-* Roberto Calandra
+* [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)
+* [Roberto Calandra](https://lasr.org/)
 * [Servey Levine](https://people.eecs.berkeley.edu/~svlevine)
-* Serena Ivaldi
-* Jean-Baptiste Mouret
-* Jens Kober
-* Guido de Croon
+* [Serena Ivaldi](https://members.loria.fr/SIvaldi)
+* [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)
+* [Jens Kober](http://www.jenskober.de)
+* [Guido de Croon](http://www.bene-guido.eu/wordpress/)
 
 
 <div id="schedule" />
