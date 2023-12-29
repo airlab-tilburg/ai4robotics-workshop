@@ -31,8 +31,8 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 | 13:30-14:00 | Invited Talk #5  |
 | 14:30-15:00 | Invited Talk #6  |
 | 15:00-15:45 | Coffee break with poster session  |
-| 15:45-16:15 | Invited Talk #7  |
-| 16:15-17:00 | Panel discussion  |
+| 15:45-16:30 | Panel discussion  |
+| 16:30-17:00 | Invited Talk #7: Sergey Levine  |
 | 17:00-17:10 | Closing remarks  |
 | 17:00-19:00 | Drinks and networking  |
 
