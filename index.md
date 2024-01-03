@@ -3,10 +3,32 @@ layout: default
 ---
 
 <div id="abstract" />
-## 
 
-Topics of interest include, but are not limited to:
-* topic
+Since their inception, Artificial Intelligence and Robotics have been intrinsically connected. Yet, the two communities are not always interacting as much as they should. The increasing specialization within each field tends to overlook their deeper link, posing challenges in keeping up to date with each other's advancements. This highlights the critical need for an interdisciplinary forum to harmonize efforts across both domains.
+
+Additionally, many research labs lack access to essential resources. This includes both the high-cost robot hardware required for practical application of theories and the computational resources necessary for training large neural networks. By fostering collaborations between AI and robotics researchers, we can significantly enhance research efficiency and accelerate scientific breakthroughs.
+
+We organize the **AI for Robotics Workshop** to provide an opportunity for AI researchers and roboticists to come together and exchange ideas, learn about the latest developments in both fields, encourage networking, and initiate collaborations.
+
+The workshop is organized as a one day event in Tilburg, The Netherlands, featuring invited talks on the latest advances in both AI and Robotics from leading researchers. To promote meaningful exchanges, the event includes networking opportunities during lunch and coffee breaks, and ends with relaxed social drinks at the end of the day.
+
+Understanding the importance of inclusive participation, we are pleased to offer free registration for the workshop, kindly provided by our sponsors. This includes a delightful lunch and all-day snacks and drinks. Additionally, we are committed to supporting the involvement of early-career researchers and students by providing a number of travel grants based on need and merit.
+
+Everybody is encouraged to submit and present a poster. Topics of interest include, but are not limited to:
+* deep learning for robotics
+* foundation models (e.g., LLMs, Open X-Embodiment, etc...)
+* human-robot interaction
+* robot learning
+* dexterous manipulation
+* humanoid robotics
+* deep reinforcement learning
+* imitation learning
+* bio-inspired robotics
+* neuro-symbolic AI
+* computer vision (for robotics)
+* swarm robotics
+* trustworthy AI
+* AI safety
 
 
 
@@ -51,20 +73,21 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 <div id="organizers" />
 ## Organizers
 
-* Giacomo Spigler
-* Murat Kirtay
+* [Giacomo Spigler](http://www.spigler.net/giacomo)
+* [Murat Kirtay](http://www.crossvalidate.me)
 
 
 <div id="registration" />
 ## Registration and Travel Grants
 
+[TBA]
 
 
 
 <div id="important_dates" />
 ## Important Dates
 
-*   [registration deadline, poster submission deadline]
+*   Poster submission deadline: **March 5, 2024** (AOE)
 *   Workshop Date: **April 5, 2024**
 
 
@@ -72,7 +95,7 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 <div id="submission_instructions" />
 ## Call for Posters
 
-[TODO]
+[TBA]
 
 
 
@@ -84,8 +107,9 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 <div id="contact" />
 ## Contact
 
-[TODO make a new gmail for the workshop]
-For questions specific to this year's workshop, please contact the organizers (link to websites of the organizers).
+You can reach the organizers for any questions by contacting them individually, or through the dedicated email set up for the workshop:
+
+workshop <at> tilburg-robotics.eu
 
 
 
@@ -95,9 +119,12 @@ For questions specific to this year's workshop, please contact the organizers (l
 <div id="Sponsors" />
 ## Sponsors
 
-* sponsor 1 (as logo with link)
-* sponsor 2
-* sponsor 3
+* ![NWO](assets/NWOlogo.png) [NWO](http://www.nwo.nl)
+* Tilburg University
+* MindLabs
+* [Tilburg Robotics](https://www.tilburg-robotics.eu)
+
+* [Contact us if you wish to sponsor additional travel grants!]
 
 
 
