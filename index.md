@@ -3,6 +3,7 @@ layout: default
 ---
 
 <div id="abstract" />
+<p style='text-align: justify;'>
 
 Since their inception, Artificial Intelligence and Robotics have been intrinsically connected. Yet, the two communities are not always interacting as much as they should. The increasing specialization within each field tends to overlook their deeper link, posing challenges in keeping up to date with each other's advancements. This highlights the critical need for an interdisciplinary forum to harmonize efforts across both domains.
 
@@ -29,7 +30,7 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * swarm robotics
 * trustworthy AI
 * AI safety
-
+</p>
 
 
 <div id="invited_speakers" />
