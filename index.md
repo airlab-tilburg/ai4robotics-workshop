@@ -65,7 +65,7 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 ## Important Dates
 
 *   [registration deadline, poster submission deadline]
-*   Workshop Date: ** April 5, 2024 **
+*   Workshop Date: **April 5, 2024**
 
 
 
