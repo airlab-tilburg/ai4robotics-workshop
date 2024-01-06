@@ -5,13 +5,13 @@ layout: default
 <div id="abstract" />
 <p style='text-align: justify;'>
 
-Since their inception, Artificial Intelligence and Robotics have been intrinsically connected. Yet, the two communities are not always interacting as much as they should. The increasing specialization within each field tends to overlook their deeper link, posing challenges in keeping up to date with each other's advancements. This highlights the critical need for an interdisciplinary forum to harmonize efforts across both domains.<br/>
+Since their inception, Artificial Intelligence and Robotics have been intrinsically connected. Yet, the two communities are not always interacting as much as they should. The increasing specialization within each field tends to overlook their deeper link, posing challenges in keeping up to date with each other's advancements. This highlights the critical need for an interdisciplinary forum to harmonize efforts across both domains.<br/><br/>
 
-Additionally, many research labs lack access to essential resources. This includes both the high-cost robot hardware required for practical application of theories and the computational resources necessary for training large neural networks. By fostering collaborations between AI and robotics researchers, we can significantly enhance research efficiency and accelerate scientific breakthroughs.<br/>
+Additionally, many research labs lack access to essential resources. This includes both the high-cost robot hardware required for practical application of theories and the computational resources necessary for training large neural networks. By fostering collaborations between AI and robotics researchers, we can significantly enhance research efficiency and accelerate scientific breakthroughs.<br/><br/>
 
-We organize the <b>AI for Robotics Workshop</b> to provide an opportunity for AI researchers and roboticists to come together and exchange ideas, learn about the latest developments in both fields, encourage networking, and initiate collaborations.<br/>
+We organize the <b>AI for Robotics Workshop</b> to provide an opportunity for AI researchers and roboticists to come together and exchange ideas, learn about the latest developments in both fields, encourage networking, and initiate collaborations.<br/><br/>
 
-The workshop is organized as a one day event in Tilburg, The Netherlands, featuring invited talks on the latest advances in both AI and Robotics from leading researchers. To promote meaningful exchanges, the event includes networking opportunities during lunch and coffee breaks, and ends with relaxed social drinks at the end of the day.<br/>
+The workshop is organized as a one day event in Tilburg, The Netherlands, featuring invited talks on the latest advances in both AI and Robotics from leading researchers. To promote meaningful exchanges, the event includes networking opportunities during lunch and coffee breaks, and ends with relaxed social drinks at the end of the day.<br/><br/>
 
 Understanding the importance of inclusive participation, we are pleased to offer free registration for the workshop, kindly provided by our sponsors. This includes a delightful lunch and all-day snacks and drinks. Additionally, we are committed to supporting the involvement of early-career researchers and students by providing a number of travel grants based on need and merit.
 </p>
