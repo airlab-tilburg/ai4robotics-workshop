@@ -96,7 +96,7 @@ Further information about event recording and/or live-streaming will follow.
 *   Workshop Date: **April 5, 2024**
 
 
-<div id="location" />
+<div id="location" style="text-align:center;" />
 ## Venue
 
 The AI for Robotics Workshop will be hosted at the beautiful new **[MindLabs](https://www.mind-labs.eu/)** building in **Tilburg, The Netherlands**, a few blocks from Tilburg Central Station.
@@ -132,8 +132,8 @@ workshop &lt; at &gt;  tilburg-robotics.eu
 ## Sponsors
 
 * ![NWO](assets/NWOlogo.png) [NWO](http://www.nwo.nl)
-* Tilburg University
-* MindLabs
+* [Tilburg University](https://www.tilburguniversity.edu)
+* [MindLabs](https://www.mind-labs.eu)
 * [Tilburg Robotics](https://www.tilburg-robotics.eu)
 
 * [Contact us if you wish to sponsor additional travel grants!]
