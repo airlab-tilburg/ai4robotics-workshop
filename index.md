@@ -114,7 +114,7 @@ Further information about event recording and/or live-streaming will follow.
 
 You can reach the organizers for any questions by contacting them individually, or through the dedicated email set up for the workshop:
 
-workshop <at> tilburg-robotics.eu
+workshop &lt; at &gt;  tilburg-robotics.eu
 
 
 
