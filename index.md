@@ -39,7 +39,6 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)
 * [Roberto Calandra](https://lasr.org/)
 * [Servey Levine](https://people.eecs.berkeley.edu/~svlevine)
-* [Serena Ivaldi](https://members.loria.fr/SIvaldi)
 * [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)
 * [Jens Kober](http://www.jenskober.de)
 * [Guido de Croon](http://www.bene-guido.eu/wordpress/)
@@ -109,11 +108,9 @@ The AI for Robotics Workshop will be hosted at the beautiful new **[MindLabs](ht
 <div id="submission_instructions" />
 ## Call for Posters
 
-[TBA]
+We encourage attendees to present a poster at the workshop. Please indicate your interest in presenting a poster during registration.
 
-
-
-
+Participants must present a poster to qualify for the travel grants.
 
 
 
@@ -139,8 +136,6 @@ workshop &lt; at &gt;  tilburg-robotics.eu
 * [Tilburg Robotics](https://www.tilburg-robotics.eu)
 
 * [Contact us if you wish to sponsor additional travel grants!]
-
-
 
 
 
