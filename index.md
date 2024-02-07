@@ -36,12 +36,12 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 <div id="invited_speakers" />
 ## Invited Speakers
 
-* [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)
-* [Roberto Calandra](https://lasr.org/)
-* [Servey Levine](https://people.eecs.berkeley.edu/~svlevine)
-* [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/)
-* [Jens Kober](http://www.jenskober.de)
-* [Guido de Croon](http://www.bene-guido.eu/wordpress/)
+* [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ) (Google DeepMind)
+* [Roberto Calandra](https://lasr.org/) (TU Dresden)
+* [Servey Levine](https://people.eecs.berkeley.edu/~svlevine) (UC Berkeley)
+* [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) (Inria)
+* [Jens Kober](http://www.jenskober.de) (TU Delft)
+* [Guido de Croon](http://www.bene-guido.eu/wordpress/) (TU Delft)
 
 
 <div id="schedule" />
