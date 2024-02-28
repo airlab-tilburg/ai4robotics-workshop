@@ -39,9 +39,9 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ) (Google DeepMind)
 * [Roberto Calandra](https://lasr.org/) (TU Dresden)
 * [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine) (UC Berkeley)
-* [Jean-Baptiste Mouret](https://members.loria.fr/JBMouret/) (Inria)
 * [Jens Kober](http://www.jenskober.de) (TU Delft)
 * [Guido de Croon](http://www.bene-guido.eu/wordpress/) (TU Delft)
+* [Speaker Pending]
 
 
 <div id="schedule" />
