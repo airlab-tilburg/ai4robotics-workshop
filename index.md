@@ -78,11 +78,9 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 
 
 <div id="registration" />
-## Registration and Travel Grants
+## Registration
 
 Due to capacity constraints at the venue of the workshop, **we kindly ask all participants to register their participation at [registration-link](https://app.gomry.com/event/FymM05lNhqjfXlpddxgd)** .
-
-We plan to offer a limited number of travel grants based on need and merit to increase accessibility and improve participation. Please let us know if you need a travel grant through the registration form.
 
 Further information about event recording and/or live-streaming will follow.
 
@@ -91,8 +89,8 @@ Further information about event recording and/or live-streaming will follow.
 <div id="important_dates" />
 ## Important Dates
 
-*   Travel grant application deadline: **March 1, 2024** (AOE)
-*   Travel grant notification : **March 5, 2024** (AOE)
+*   <strike>Travel grant application deadline: **March 1, 2024** (AOE)</strikle>
+*   <strike>Travel grant notification : **March 5, 2024** (AOE)</strike>
 *   Poster submission deadline: **March 5, 2024** (AOE)
 *   Workshop Date: **April 5, 2024**
 
