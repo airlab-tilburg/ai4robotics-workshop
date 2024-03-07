@@ -89,7 +89,7 @@ Further information about event recording and/or live-streaming will follow.
 <div id="important_dates" />
 ## Important Dates
 
-*   <strike>Travel grant application deadline: **March 1, 2024** (AOE)</strikle>
+*   <strike>Travel grant application deadline: **March 1, 2024** (AOE)</strike>
 *   <strike>Travel grant notification : **March 5, 2024** (AOE)</strike>
 *   Poster submission deadline: **March 5, 2024** (AOE)
 *   Workshop Date: **April 5, 2024**
