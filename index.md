@@ -53,7 +53,7 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 | 9:15-10:00 | Invited Talk #1  |
 | 10:00-10:30 | Invited Talk #2  |
 | 10:30-11:30 | Coffee break with poster session |
-| 11:30-12:00 | Invited Talk #3  |
+| 11:30-12:00 | [Silvia Tolu](https://www.dtu.dk/english/Person/cwis?id=102697&tab=1&entity=profile)  |
 | 12:00-12:30 | Invited Talk #4  |
 | 12:00-13:30 | Lunch with networking via thematic tables |
 | 13:30-14:00 | Invited Talk #5  |
