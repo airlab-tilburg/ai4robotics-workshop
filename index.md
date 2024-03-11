@@ -41,7 +41,7 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine) (UC Berkeley)
 * [Jens Kober](http://www.jenskober.de) (TU Delft)
 * [Guido de Croon](http://www.bene-guido.eu/wordpress/) (TU Delft)
-* [Speaker Pending]
+* [Silvia Tolu](https://www.dtu.dk/english/Person/cwis?id=102697&tab=1&entity=profile) (DTU)
 
 
 <div id="schedule" />
