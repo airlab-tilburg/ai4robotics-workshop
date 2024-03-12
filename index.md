@@ -130,7 +130,7 @@ workshop &lt; at &gt;  tilburg-robotics.eu
 <div id="Sponsors" />
 ## Sponsors
 
-<a href="http://www.nwo.nl"><img src="assets/NWOlogo.png" width="80px" /></a> &nbsp;&nbsp;
+<a href="http://www.nwo.nl"><img src="assets/NWOlogo.png" width="70px" /></a> &nbsp;&nbsp;
 
 <a href="https://www.tilburguniversity.edu"><img src="assets/tilburguniversity_logo.png" width="200px" /></a> &nbsp;&nbsp;
 
