@@ -130,12 +130,15 @@ workshop &lt; at &gt;  tilburg-robotics.eu
 <div id="Sponsors" />
 ## Sponsors
 
-* <img src="assets/NWOlogo.png" width="90px" />  [NWO](http://www.nwo.nl)
-* <img src="assets/tilburguniversity_logo.png" width="200px" /> [Tilburg University](https://www.tilburguniversity.edu)
-* <img src="assets/mindlabs_logo.png" width="120px" />  [MindLabs](https://www.mind-labs.eu)
-* <img src="assets/tilburgrobotics_logo.png" width="130px" />  [Tilburg Robotics](https://www.tilburg-robotics.eu)
+<a href="http://www.nwo.nl"><img src="assets/NWOlogo.png" width="80px" /></a><br/>
 
-* [Contact us if you wish to sponsor additional travel grants!]
+<a href="https://www.tilburguniversity.edu"><img src="assets/tilburguniversity_logo.png" width="200px" /></a><br/>
+
+<a href="https://www.mind-labs.eu"><img src="assets/mindlabs_logo.png" width="120px" /></a><br/>
+
+<a href="https://www.tilburg-robotics.eu"><img src="assets/tilburgrobotics_logo.png" width="130px" /></a><br/>
+
+[Please contact us if you wish to sponsor additional travel grants!]
 
 
 
