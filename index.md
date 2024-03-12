@@ -131,7 +131,7 @@ workshop &lt; at &gt;  tilburg-robotics.eu
 ## Sponsors
 
 * ![NWO](assets/NWOlogo.png) [NWO](http://www.nwo.nl)
-* [Tilburg University](https://www.tilburguniversity.edu)
+* ![Tilburg University](assets/tilburguniversity_logo.png){width=100px} [Tilburg University](https://www.tilburguniversity.edu)
 * [MindLabs](https://www.mind-labs.eu)
 * [Tilburg Robotics](https://www.tilburg-robotics.eu)
 
