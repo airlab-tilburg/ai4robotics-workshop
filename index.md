@@ -47,7 +47,7 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 <div id="schedule" />
 ## Tentative Schedule
 
-Tentative. **In Central European Time (CEST; Amsterdam Time)**.
+Tentative. **In Central European Time (CET; Amsterdam Time)**.
 
 | 9:00  | Opening Remarks  |
 | 9:20 | Invited Talk #1: [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)  |
