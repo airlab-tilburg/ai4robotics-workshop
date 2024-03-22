@@ -90,7 +90,7 @@ Further information about event recording and/or live-streaming will follow.
 
 *   <strike>Travel grant application deadline: **March 1, 2024** (AOE)</strike>
 *   <strike>Travel grant notification : **March 5, 2024** (AOE)</strike>
-*   Poster submission deadline: **March 5, 2024** (AOE)
+*   <strike>Poster submission deadline: **March 5, 2024** (AOE)</strike>
 *   Workshop Date: **April 5, 2024**
 
 
