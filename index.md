@@ -53,13 +53,13 @@ Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 | 9:20 | Invited Talk #1: [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)  |
 | 9:50 | Invited Talk #2: [Jens Kober](http://www.jenskober.de) (TU Delft)  |
 | 10:20 | Coffee break with poster session |
-| 11:20 | Invited Talk #3: [Silvia Tolu](https://www.dtu.dk/english/Person/cwis?id=102697&tab=1&entity=profile)  |
+| 11:20 | Invited Talk #3: [Silvia Tolu](https://www.dtu.dk/english/Person/cwis?id=102697&tab=1&entity=profile) (online) |
 | 11:50 | Invited Talk #4: [Roberto Calandra](https://lasr.org/) (TU Dresden)  |
 | 12:20 | Lunch with networking via thematic tables |
 | 14:30 | Invited Talk #5: [Guido de Croon](http://www.bene-guido.eu/wordpress/)  |
 | 15:00 | Coffee break with poster session  |
 | 15:45 | Panel discussion  |
-| 16:30 | Invited Talk #6: [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine)  |
+| 16:30 | Invited Talk #6: [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine) (online) |
 | 17:00 | Closing remarks  |
 | 17:10 | Drinks and networking  |
 
