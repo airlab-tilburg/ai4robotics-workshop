@@ -49,6 +49,7 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 
 Tentative. **In Central European Time (CEST; Amsterdam Time)**.
 
+| 8:30-9:00  | Registration and badge collection  |
 | 9:00  | Opening Remarks  |
 | 9:20 | Invited Talk #1: [Francesco Nori](https://scholar.google.com/citations?user=t3l8q6gAAAAJ)  |
 | 9:50 | Invited Talk #2: [Jens Kober](http://www.jenskober.de)  |
