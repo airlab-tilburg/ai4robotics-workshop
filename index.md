@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<!--
+<div id="online_streaming" />
+<p style='text-align: justify;'>
+## Online Streaming
+
+We plan to organize a livestreaming of the event. Please check this website on the day of the event for the streaming link.
+
+Link: [work in progess]
+-->
+
+
 <div id="abstract" />
 <p style='text-align: justify;'>
 
@@ -99,6 +110,8 @@ Further information about event recording and/or live-streaming will follow.
 ## Venue
 
 The AI for Robotics Workshop will be hosted at the beautiful new **[MindLabs](https://www.mind-labs.eu/)** building in **Tilburg, The Netherlands**, a few blocks from Tilburg Central Station. The venue is easily accessible by train from all Netherlands, Belgium, and Germany. The nearby airports of Eindhoven (base of Ryanair and low-cost airlines) and Amsterdam Schiphol and well connected to Tilburg by train.
+
+Most of the activities will take place in the large atrium, immediately past the entrance of the building.
 
 <div style="text-align:center;">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2183.4285681834876!2d5.082960790384151!3d51.56137862591535!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c6bf2ba7a333a3%3A0x120bd825d562f2f!2sMindLabs!5e0!3m2!1sen!2snl!4v1704545609285!5m2!1sen!2snl" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
