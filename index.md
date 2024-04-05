@@ -36,14 +36,11 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 
 <div id="online_streaming" />
 <p style='text-align: justify;'>
-
-<div style='color:#BFF;'>
 ## Online Streaming
 
 The event will be live-streamed at:<br/>
 <a href="https://t.ly/pdto6">Zoom Link</a> <br/>
 <a href="https://www.youtube.com/watch?v=3NhOKsSWiOo">Youtube Streaming</a> <br/>
-</div>
 
 
 
