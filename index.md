@@ -34,7 +34,6 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * AI safety
 
 
-
 <div id="online_streaming" />
 <p style='text-align: justify;'>
 
