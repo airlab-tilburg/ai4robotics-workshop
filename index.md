@@ -12,7 +12,6 @@ Zoom Link: https://t.ly/pdto6
 Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo
 
 
-
 <div id="abstract" />
 <p style='text-align: justify;'>
 
