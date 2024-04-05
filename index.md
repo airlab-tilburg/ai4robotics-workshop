@@ -9,9 +9,10 @@ layout: default
 <div style='color:#BFF;'>
 ## Online Streaming
 
-The event will be live-streamed at:
-Zoom Link: https://t.ly/pdto6
-Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo
+The event will be live-streamed at:<br/>
+Zoom Link: https://t.ly/pdto6 <br/>
+Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo <br/>
+</div>
 
 
 <div id="abstract" />
