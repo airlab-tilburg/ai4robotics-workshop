@@ -3,18 +3,6 @@ layout: default
 ---
 
 
-<div id="online_streaming" />
-<p style='text-align: justify;'>
-
-<div style='text-color:#BFF;'>
-## Online Streaming
-
-The event will be live-streamed at:<br/>
-Zoom Link: https://t.ly/pdto6 <br/>
-Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo <br/>
-</div>
-
-
 <div id="abstract" />
 <p style='text-align: justify;'>
 
@@ -44,6 +32,20 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 * swarm robotics
 * trustworthy AI
 * AI safety
+
+
+
+<div id="online_streaming" />
+<p style='text-align: justify;'>
+
+<div style='color:#BFF;'>
+## Online Streaming
+
+The event will be live-streamed at:<br/>
+Zoom Link: https://t.ly/pdto6 <br/>
+Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo <br/>
+</div>
+
 
 
 <div id="invited_speakers" />
