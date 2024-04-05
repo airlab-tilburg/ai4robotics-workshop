@@ -5,6 +5,8 @@ layout: default
 
 <div id="online_streaming" />
 <p style='text-align: justify;'>
+
+<div style='color:#BFF;'>
 ## Online Streaming
 
 The event will be live-streamed at:
