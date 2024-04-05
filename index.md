@@ -35,7 +35,6 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 
 
 <div id="online_streaming" />
-<p style='text-align: justify;'>
 ## Online Streaming
 
 The event will be live-streamed at:<br/>
