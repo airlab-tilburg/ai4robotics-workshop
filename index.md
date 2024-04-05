@@ -2,15 +2,15 @@
 layout: default
 ---
 
-<!--
+
 <div id="online_streaming" />
 <p style='text-align: justify;'>
 ## Online Streaming
 
-We plan to organize a livestreaming of the event. Please check this website on the day of the event for the streaming link.
+The event will be live-streamed at:
+Zoom Link: https://t.ly/pdto6
+Youtube Streaming: https://www.youtube.com/watch?v=3NhOKsSWiOo
 
-Link: [work in progess]
--->
 
 
 <div id="abstract" />
