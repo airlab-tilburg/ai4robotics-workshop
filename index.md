@@ -39,8 +39,8 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 ## Online Streaming
 
 The event will be live-streamed at:<br/>
-<a href="https://t.ly/pdto6">Zoom Link</a> <br/>
-<a href="https://www.youtube.com/watch?v=3NhOKsSWiOo">Youtube Streaming</a> <br/>
+<a style='color:#330000' href="https://t.ly/pdto6">Zoom Link</a> <br/>
+<a style='color:#330000' href="https://www.youtube.com/watch?v=3NhOKsSWiOo">Youtube Streaming</a> <br/>
 
 
 
