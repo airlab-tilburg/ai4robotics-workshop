@@ -35,10 +35,10 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 
 
 <div id="online_streaming" />
-## Online Streaming
+## Event recording:
 
-The event will be live-streamed at:<br/>
-[Youtube Streaming](https://www.youtube.com/watch?v=3NhOKsSWiOo)
+A recording of the full day of the Workshop is available at:
+[Youtube Link](https://www.youtube.com/watch?v=3NhOKsSWiOo)
 
 
 <div id="invited_speakers" />
