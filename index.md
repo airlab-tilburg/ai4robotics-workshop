@@ -40,6 +40,8 @@ Everybody is encouraged to submit and present a poster. Topics of interest inclu
 A recording of the full day of the Workshop is available at:
 [Youtube Link](https://www.youtube.com/watch?v=3NhOKsSWiOo)
 
+Photos of the event are also available at: [Photos](https://surfdrive.surf.nl/files/index.php/s/yAXGxNVoRwsOYHh)
+
 
 <div id="invited_speakers" />
 ## Invited Speakers
